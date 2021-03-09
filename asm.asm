@@ -3,4 +3,4 @@
 global sec
 
 sec:
-  mov know no
+  mov know not
